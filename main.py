@@ -13,7 +13,7 @@ import os
 import sys
 
 EXPECTED_SHA256 = "5a8e724d9bb34ead38b16e1df2f808f68cd6a24b7a7405fdb9d36cdb5864f287"
-EXPECTED_SIZE = 254541  # bytes; kit cap is 1048576, image is 1024x1024
+EXPECTED_SIZE = 254541  # bytes; kit cap is 1048576, image is 1024x1024, under 300 KB
 CHUNK = 65536
 
 
